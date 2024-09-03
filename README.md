@@ -11,3 +11,4 @@ En este readme, señalare comentarios con *
   Inserte color de fondo a una parte del texto, abarca el H1 y su p
   Se hizo una caja (diseño basico en CSS) y se alineo esta al centro (desde archivo HTML)
   height: 100px; width: 300px; ajustan el alto y ancho del cuadro "box"
+  inserte un h2 y un p, asi como una imagen de hawking, el tamaño se ajusta con height y width en procentajes y lo alinee usando la etiqueta "center", aun no entiendo como hacerlo sin esa etiqueta
