@@ -1,7 +1,7 @@
-h1 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; font-size: larger; text-align: center; color: rgb(40, 172, 233);}
+h1 {font-family: Verdana, Geneva, Tahoma, sans-serif ; font-size: 250%; text-align: center; color: rgb(40, 172, 233); font-style: italic ;}
 
 /* h1 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; font-style: italic; font-size: 300%;} */
 
-.box {background-color: cornflowerblue; border: 5px solid darkblue;
-    height: 150px;
-    width: 200px; }
+.box {background-color: rgb(5, 21, 51); border: .5px solid rgb(243, 243, 243);
+    height: 200px;
+    width: 300px; }
