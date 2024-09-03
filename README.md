@@ -9,3 +9,4 @@ En este readme, señalare comentarios con *
 
 03/09/2024
   Inserte color de fondo a una parte del texto, abarca el H1 y su p
+  Se hizo una caja (diseño basico en CSS) y se alineo esta al centro (desde archivo HTML)
