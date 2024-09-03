@@ -1,4 +1,7 @@
-h1 {font-family: Verdana, Geneva, Tahoma, sans-serif ; font-size: 250%; text-align: center; color: rgb(40, 172, 233); font-style: italic ;}
+h1 {font-family: Verdana, Geneva, Tahoma, sans-serif ; font-size: 250%; text-align: center; color: rgb(40, 172, 233); font-style: italic ; text-shadow: -1px -1px 1px #aaa,
+    0px 4px 1px rgba(0, 0, 0, 0.5),
+    4px 4px 5px rgba(0, 0, 0, 0.7),
+    0px 0px 7px rgba(0, 0, 0, 0.4);}
 
 /* h1 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; font-style: italic; font-size: 300%;} */
 
@@ -8,4 +11,4 @@ h1 {font-family: Verdana, Geneva, Tahoma, sans-serif ; font-size: 250%; text-ali
 
 h2{ font-family: Helvetica, sans-serif; font-size: 100%; text-align: center; color: aquamarine; font-weight: 200;}
 
-p{ font-family: Arial, Helvetica, sans-serif; font-size: 90%; text-align: center; color: aliceblue; font-stretch: expanded; }
+p{ font-family: Arial, Helvetica, sans-serif; font-size: 90%; text-align: center; color: aliceblue; font-stretch: expanded;}
