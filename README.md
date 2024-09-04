@@ -12,3 +12,10 @@ En este readme, señalare comentarios con *
   Se hizo una caja (diseño basico en CSS) y se alineo esta al centro (desde archivo HTML)
   height: 100px; width: 300px; ajustan el alto y ancho del cuadro "box"
   inserte un h2 y un p, asi como una imagen de hawking, el tamaño se ajusta con height y width en procentajes y lo alinee usando la etiqueta "center", aun no entiendo como hacerlo sin esa etiqueta
+  Agregue sombras al "hola mundo"
+
+04/09/2024
+  inserte un "class" para definir de manera general el estilo de los parrafos
+  Inserte un style="float: left;" para orientar la imagen respecto del texto
+  inserte una box1 para definir la imagen y texto de agujeros negros, la linea de contorno es totalmente transparente
+  Para la orientación solo me ha funcionado "center" desde html
