@@ -19,3 +19,4 @@ En este readme, señalare comentarios con *
   Inserte un style="float: left;" para orientar la imagen respecto del texto
   inserte una box1 para definir la imagen y texto de agujeros negros, la linea de contorno es totalmente transparente
   Para la orientación solo me ha funcionado "center" desde html
+  Agregue un "ul" para definir una barra de botones en la parte superior, aun no existen los links ni separacion de botones
