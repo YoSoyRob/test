@@ -27,3 +27,14 @@ h2{ font-family: Helvetica, sans-serif; font-size: 150%; text-align: center; col
     max-width: 1000px;
     align-items: center;}
 
+button { font-family: 'Times New Roman', Times, serif; 
+    color: aquamarine; 
+    background-color: gray;
+}
+
+button:hover { font-size: 120%;
+    color: black;
+    background-color: gray;
+
+}
+

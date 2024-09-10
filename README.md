@@ -24,3 +24,6 @@ En este readme, señalare comentarios con *
   Al agregar .pagafo:hover { color: chartreuse; }, con el "hover" al momento de colocar el cursor en el parrafo cambia al color indicado;
   Agregue li::first-letter {color: blue}, la primera letra del listado en la barra cambia a color azul;
   Hasta ahorita, definir una class dentro de un box, no funciona, *revisar el "box1" y "pagafo1"
+
+  10/09/2024
+  Agregue un boton, con un hover, por lo que al momento de poner el cursos en el boton, este incrementa de tamaño 
