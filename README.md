@@ -27,3 +27,8 @@ En este readme, señalare comentarios con *
 
   10/09/2024
   Agregue un boton, con un hover, por lo que al momento de poner el cursos en el boton, este incrementa de tamaño 
+
+  11/09/2024
+  En el "ul" y "li" defini una barra horizontal y separación de botones
+  En el "li" de agujeros negros, hice un link a la parte del texto que habla de ellos, usando un "id" en el texto y ligandolo con un "#"
+  La posición del botón, se alineo al centro con un "left:50%" 
