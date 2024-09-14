@@ -32,3 +32,12 @@ En este readme, señalare comentarios con *
   En el "ul" y "li" defini una barra horizontal y separación de botones
   En el "li" de agujeros negros, hice un link a la parte del texto que habla de ellos, usando un "id" en el texto y ligandolo con un "#"
   La posición del botón, se alineo al centro con un "left:50%" 
+
+  14/09/2024
+  Agregue un cuadro de entrada de texto;
+  Agregue un footer;
+  Se redondearon las imagenes; 
+  Se agrego un cuadro para "ingreso de texto" con un "input";
+  Se ajusto al fin el boton de gubai al centro; 
+  Se ajusto la imagen del encabezado;
+  Cambio en colores de fondo y letras.

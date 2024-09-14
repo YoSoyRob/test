@@ -1,4 +1,13 @@
-h1 {font-family: Verdana, Geneva, Tahoma, sans-serif ; font-size: 250%; text-align: center; color: rgb(243, 213, 45); font-style: italic ; text-shadow: -1px -1px 1px #aaa,
+body {
+    background-color: #4e4d4d;
+}
+
+h1 {font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+    font-size: 250%; 
+    text-align: center; 
+    color: rgb(243, 213, 45); 
+    font-style: italic ; 
+    text-shadow: -1px -1px 1px #aaa,
     0px 4px 1px rgba(0, 0, 0, 0.5),
     4px 4px 5px rgba(0, 0, 0, 0.7),
     0px 0px 7px rgba(0, 0, 0, 0.4);}
@@ -7,45 +16,112 @@ h1 {font-family: Verdana, Geneva, Tahoma, sans-serif ; font-size: 250%; text-ali
 
 h1::first-letter {color: aliceblue;}
 
-ul { list-style: none;font-family: 'Times New Roman', Times, serif; font-size: 300%; color: aqua; background-color: #aaa;}
+ul { list-style-type: none;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 150%; 
+    color: aqua; 
+    background-color: #aaa;
+    display: flex;
+    margin: auto auto;
+}
 
-li { display: inline-block; }
+li { display: inline-block;
+
+}
+
+li::first-letter {color: rgb(13, 13, 121)}
 
 a {display: block;
     padding: 8px;
     background-color: gray;
-    color: white;
+    color: rgb(12, 12, 12);
     border: 1px solid #787878;
-    font-family: 'Courier New', Courier, monospace; }
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none; }
 
-li::first-letter {color: blue}
 
-.box {background-color: rgb(5, 21, 51); border: .5px solid rgb(243, 243, 243);
+
+.box {background-color: rgb(5, 21, 51); 
+    border: .5px solid rgb(243, 243, 243);
     height: 200px;
-    width: 300px; }
+    width: 300px;
+margin: 10px auto 10px auto; }
 
-h2{ font-family: Helvetica, sans-serif; font-size: 150%; text-align: center; color: aquamarine; font-weight: 200;}
+h2{ font-family: Helvetica, sans-serif; 
+    font-size: 150%; 
+    text-align: center; 
+    color: rgb(13, 14, 13); 
+    font-weight: 200;}
 
-.pagafo{ font-family: Arial, Helvetica, sans-serif; font-size: 90%; text-align: center; color: rgb(95, 212, 241); font-stretch: expanded; font-style: italic;}
-.pagafo:hover { color: chartreuse; }
+.pagafo{ font-family: Arial, Helvetica, sans-serif; 
+    font-size: 90%; 
+    text-align: center; 
+    color: rgb(1, 26, 32); 
+    font-stretch: expanded; 
+    font-style: italic;}
 
-.pagafo1{ font-family: Arial, Helvetica, sans-serif; font-size: 90%; text-align: justify; color: rgb(241, 173, 95); font-stretch: expanded; font-style: oblique;}
-.pagafo1:hover { color: blueviolet;} /* no funciona si el texto esta en un box */
+.pagafo:hover { color: rgb(236, 238, 233); }
 
-.box1 { border: .05px solid rgba(243, 243, 243, 0);
+.pagafo1{ font-family: Arial, Helvetica, sans-serif; 
+    font-size: 90%; 
+    text-align: justify; 
+    color: rgb(39, 23, 4); 
+    font-stretch: expanded; 
+    font-style: oblique;}
+
+    .pagafo1:hover { color: rgb(197, 180, 212);} /* no funciona si el texto esta en un box */
+
+.box1 { 
+    border: .05px solid rgba(243, 243, 243, 0);
     max-height: 1000px;
     max-width: 1000px;
-    align-items: center;}
+    align-items: center;
+}
 
 button { font-family: 'Times New Roman', Times, serif; 
-    color: aquamarine; 
+    color: rgb(235, 241, 239); 
     background-color: gray;
-    position: relative; left: 50%;
+    text-align: center;
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    border-radius: 15%;
+    transition-duration: 0.4s;
+    width: 250px;
+    margin: 5px auto 5px auto;
 }
 
-button:hover { font-size: 120%;
+button:hover {
     color: black;
-    background-color: gray;
-
+    background-color: rgb(240, 238, 238);
 }
+
+img.space {
+    display: block;
+    margin: auto auto;
+    min-height: 20%;
+    min-width: 20%;
+}
+
+img {
+    border-radius: 5%;
+}
+
+
+.foot {
+    color: rgb(8, 8, 8);
+    text-align: center;
+    background-color: rgb(180, 178, 178);
+    margin: auto auto;
+    width: 50% 
+}
+
+input {
+    display: block;
+    margin: 5px auto 5px auto;
+    height: 25px;
+}
+
 
